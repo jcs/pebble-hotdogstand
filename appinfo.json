@@ -1,0 +1,25 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "jcs@superblock.net",
+    "longName": "Hot Dog Stand",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/hotdog-bw.png",
+                "name": "IMAGE_BACKGROUND",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Hot Dog Stand",
+    "uuid": "44261d19-cf1c-434f-9aee-f09d4d10f009",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
