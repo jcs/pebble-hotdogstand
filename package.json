@@ -1,0 +1,39 @@
+{
+    "author": "jcs@superblock.net",
+    "dependencies": {},
+    "keywords": [],
+    "name": "hot-dog-stand",
+    "pebble": {
+        "displayName": "Hot Dog Stand",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/menuicon.png",
+                    "menuIcon": true,
+                    "name": "MENUICON",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/hotdog-bw.png",
+                    "name": "IMAGE_BACKGROUND",
+                    "type": "png"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "diorite"
+        ],
+        "uuid": "44261d19-cf1c-434f-9aee-f09d4d10f009",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.1.0"
+}
