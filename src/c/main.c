@@ -49,7 +49,7 @@ static void update_time() {
     text_layer_set_text(s_time_layer, buffer);
   }
 
-  strftime(dbuffer, sizeof(dbuffer), "%m/%e/%y", tick_time);
+  strftime(dbuffer, sizeof(dbuffer), "%m/%d/%y", tick_time);
   text_layer_set_text(s_date_layer, dbuffer);
 }
 
