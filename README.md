@@ -1,4 +1,4 @@
-###Hot Dog Stand
+# Hot Dog Stand
 
 An ode to the Windows 3.1 Hot Dog Stand theme.
 
